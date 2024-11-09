@@ -16,33 +16,52 @@ body {
     h1 {
         color: mediumorchid;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
     }
 
     h2 {
         color: greenyellow;
         font-family: cursive;
+        text-align: center;
     }
 
     h3 {
         color: deeppink;
         font-family: Arial, Helvetica, sans-serif;
         font-size: larger;
+        text-align: center;
     }
 
     p {
         color: rosybrown;
-        width: 800px;
+        background-color: floralwhite;
+        font-weight: bold;
+        width: 1000px;
     }
 
-    nav > ul {
+    ol {
+        color: mediumblue;
+        background-color: antiquewhite;
+        font-family: cursive;
+    }
+
+    ul {
+        color: slateblue;
+        background-color: antiquewhite;
+        font-family: cursive;
+    }
+
+
+    nav > ul  {
         line-height: 2em;
         list-style-type: square;
-        
     }
 
+    
     a:link {
-        color: seagreen;
+        color: rgb(10, 255, 116);
         font-family: 'Times New Roman', Times, serif;
+        font-weight: 500;
     }
 
     section {
@@ -54,6 +73,7 @@ body {
      footer {
         background-color: hotpink;
      }
+   
    
    
    
