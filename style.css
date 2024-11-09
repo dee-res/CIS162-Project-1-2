@@ -32,6 +32,12 @@ body {
     nav > ul {
         line-height: 2em;
         list-style-type: square;
+        
+    }
+
+    nav > ul > li {
+        color: seagreen;
+        font-family: 'Times New Roman', Times, serif;
     }
 
     section {
@@ -43,4 +49,5 @@ body {
      footer {
         background-color: hotpink;
      }
+   
    
