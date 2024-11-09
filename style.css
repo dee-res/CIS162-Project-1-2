@@ -1,7 +1,7 @@
 body {
     background-color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
-    width: 75%;
+    width: 100;
     padding: 5;
     margin-top: auto;
     }
@@ -16,6 +16,16 @@ body {
     h1 {
         color: mediumorchid;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    h2 {
+        color: gold;
+        font-family: fantasy;
+    }
+
+    h3 {
+        color: forestgreen;
+        font-family: monospace;
     }
 
     nav > ul {
@@ -33,3 +43,5 @@ body {
      footer {
         background-color: hotpink;
      }
+
+   
