@@ -1,8 +1,8 @@
 body {
     background-color: blueviolet;
     font-family: Arial, Helvetica, sans-serif;
-    width: 1000px;
-    padding: 5px;
+    width: 75%;
+    padding: 5;
     margin-top: auto;
     }
 
@@ -19,13 +19,14 @@ body {
     }
 
     h2 {
-        color: gold;
-        font-family: fantasy;
+        color: greenyellow;
+        font-family: cursive;
     }
 
     h3 {
-        color: forestgreen;
-        font-family: monospace;
+        color: deeppink;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
     }
 
     nav > ul {
@@ -43,5 +44,4 @@ body {
      footer {
         background-color: hotpink;
      }
-
    
