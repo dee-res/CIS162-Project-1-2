@@ -64,12 +64,6 @@ body {
         font-weight: 500;
     }
 
-    section {
-        background-color: aqua;
-        width: 75%;
-        font-size: 1.2em;
-     }
-
      footer {
         background-color: hotpink;
      }
