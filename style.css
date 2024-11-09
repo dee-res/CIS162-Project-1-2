@@ -64,9 +64,16 @@ body {
         font-weight: 500;
     }
 
+    section {
+        
+        background-color: skyblue;
+
+    }
+
      footer {
         background-color: hotpink;
      }
+   
    
    
    
