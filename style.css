@@ -32,7 +32,6 @@ body {
     nav > ul {
         line-height: 2em;
         list-style-type: square;
-        padding: auto;
     }
 
     section {
