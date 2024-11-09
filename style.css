@@ -29,6 +29,11 @@ body {
         font-size: larger;
     }
 
+    p {
+        background-color: rosybrown;
+        width: 800px;
+    }
+
     nav > ul {
         line-height: 2em;
         list-style-type: square;
@@ -49,5 +54,6 @@ body {
      footer {
         background-color: hotpink;
      }
+   
    
    
